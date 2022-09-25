@@ -1,12 +1,58 @@
 # Erasmus Opportunities - Hybrid Mobile App
 
-An app to help volunteers find erasmus plus opportunities. Browse, filter, apply, all in one place.
+This app helps volunteers find erasmus plus opportunities. Browse, filter, apply, all in one platform.
+
+#### This app includes:
+- [Home](#home)
+- [Filters](#filters)
+- [Map View](#map-view)
+- [Information Page](#information-page)
+- [Account](#account)
 
 ### Home
 
-[<img src="app/src/readMe/sgg_home.png" align="center"
-width="200"
-    hspace="10" vspace="10">](readMe/list_after.png)
+In the home tab volunteers can view, filter, favour and apply to opportunities.
+
+[<img src="readMe/list_after.png" align="center" width="200" hspace="10" vspace="10">](readMe/list_after.png)
+[<img src="readMe/opportunity_list_shortcuts.png" align="center" width="200" hspace="10" vspace="10">](readMe/opportunity_list_shortcuts.png)
+[<img src="readMe/no_opportunities_found.png" align="center" width="200" hspace="10" vspace="10">](readMe/no_opportunities_found.png)
+
+[<img src="readMe/top_after.png" align="center" width="200" hspace="10" vspace="10">](readMe/top_after.png)
+[<img src="readMe/middle_after.png" align="center" width="200" hspace="10" vspace="10">](readMe/middle_after.png)
+[<img src="readMe/bottom_after.png" align="center" width="200" hspace="10" vspace="10">](readMe/bottom_after.png)
+
+### Filters
+
+Extensive filters were added for maximum eficiency when searching.
+
+[<img src="readMe/filters1.png" align="center" width="200" hspace="10" vspace="10">](readMe/filters1.png)
+[<img src="readMe/filters2.png" align="center" width="200" hspace="10" vspace="10">](readMe/filters2.png)
+[<img src="readMe/filters3.png" align="center" width="200" hspace="10" vspace="10">](readMe/filters3.png)
+[<img src="readMe/filters4.png" align="center" width="200" hspace="10" vspace="10">](readMe/filters4.png)
+
+
+### Map View
+
+Map view to aid searching.
+
+[<img src="readMe/app_map.png" align="center" width="200" hspace="10" vspace="10">](readMe/app_map.png)
+
+
+### Information Page
+
+Information for first time volunteers.
+
+[<img src="readMe/app_info.png" align="center" width="200" hspace="10" vspace="10">](readMe/app_info.png)
+
+### Account
+
+Volunteers account, where they can keep track of liked opportunities.
+
+[<img src="readMe/app_account.png" align="center" width="200" hspace="10" vspace="10">](readMe/app_account.png)
+[<img src="readMe/signup_error_messages.png" align="center" width="200" hspace="10" vspace="10">](readMe/signup_error_messages.png)
+[<img src="readMe/account_after.png" align="center" width="200" hspace="10" vspace="10">](readMe/account_after.png)
+[<img src="readMe/liked_list.png" align="center" width="200" hspace="10" vspace="10">](readMe/account_after.png)
+
 
 
 #### Open source libraries used:
