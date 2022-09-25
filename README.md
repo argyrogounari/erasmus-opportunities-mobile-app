@@ -1,6 +1,15 @@
-This is the app for the volunteers.
+# Erasmus Opportunities - Hybrid Mobile App
 
-Open source libraries used:
+An app to help volunteers find erasmus plus opportunities. Browse, filter, apply, all in one place.
+
+### Home
+
+[<img src="app/src/readMe/sgg_home.png" align="center"
+width="200"
+    hspace="10" vspace="10">](readMe/list_after.png)
+
+
+#### Open source libraries used:
 
 - [flutter_login 1.0.14](https://pub.dev/packages/flutter_login)
 - [flutter_multiselect 0.4.0](https://pub.dev/packages/flutter_multiselect#-readme-tab-)
